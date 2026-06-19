@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/abrazo-vacio/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Abrazo vacío](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-vacio/) |
+| **Get License** | [Commercial Licensing for Abrazo vacío](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-vacio/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dejaste un abrazo vacío en mi cama
+> Pero esta noche el deseo me llama
+> Baby, te busco en las luces del club
+> Nadie me baila y me mira como tú
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
