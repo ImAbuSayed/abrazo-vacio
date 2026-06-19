@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Abrazo vacío
+
+This log tracks the cryptographic history and versioning for the song **Abrazo vacío** (abrazo-vacio).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T17:23:52.092974 | `v1` | `ca71e3793d8970941fead998ec216e89acb994a43954ce64e57dac410b403eea` | `9c5e5276cafb8c1f0c617727b230883604f80020785704b3e5ce815fc6b3eb9e` | `2026-06-19_abrazo-vacio-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
